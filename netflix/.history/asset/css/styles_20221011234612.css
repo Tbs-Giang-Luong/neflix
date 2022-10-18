@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --height-header: 68px;
+    --white-color:#fff;
+    --header-color:#141414;
+    --arrow-up-color:#e5e5e5;
+}
+
+
+body{
+    
+    border-collapse: separate; 
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}

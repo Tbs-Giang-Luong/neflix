@@ -1,0 +1,31 @@
+/* Mobile and tablets */
+
+@media (max-width: 1023px) {
+
+.hide-one-mobile-tablet{
+    display: none;
+}
+
+
+}
+
+
+
+/* Tablets */
+
+@media (min-width: 740px) and (max-width:1023px){
+    .hide-one-tablet{
+        display: none;
+    }
+
+}
+
+/* Mobile */
+
+@media(max-width:730px){
+    .hide-one-mobile{
+        display: none;
+    }
+
+}
+

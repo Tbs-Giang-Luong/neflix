@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --height-header: 68px
+}
+
+
+body{
+
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
